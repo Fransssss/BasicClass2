@@ -3,7 +3,7 @@ Basic Class C++
 
 
 Objectives:
-- create class
+- create class definition and declaration in separate file
 - create function inside class
 - create class object
 - use class boject to input value
